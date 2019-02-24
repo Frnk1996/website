@@ -81,7 +81,7 @@ export default {
 }
 
 .navigator--scrolled {
-  background: #f3f3f3;
+  background: var(--light-color);
 }
 
 .menu {
