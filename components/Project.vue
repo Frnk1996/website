@@ -88,6 +88,7 @@ export default {
 .information__list-item__text--link {
   color: inherit;
   text-decoration: underline;
+  word-break: break-all;
 }
 
 .information__about {
