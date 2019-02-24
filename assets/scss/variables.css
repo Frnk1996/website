@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "HankenGrotesk-Bold";
+  font-weight: bold;
+  src: url("~assets/fonts/HankenGrotesk-Bold.otf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HankenGrotesk-Regular";
+  font-weight: normal;
+  src: url("~assets/fonts/HankenGrotesk-Regular.otf");
+  font-display: swap;
+}
+
+:root {
+  --primary-font-bold: "HankenGrotesk-Bold";
+  --primary-font-regular: "HankenGrotesk-Regular";
+  --dark-color: #000;
+  --light-color: #fff;
+  --text-primary-dark-color: #000;
+  --text-primary-light-color: #fff;
+  --text-secondary-light-color: rgba(255, 255, 255, 0.64);
+  --fast-curve: cubic-bezier(0, 0.85, 0.58, 1);
+  --mobile-breakpoint: 420px;
+}
