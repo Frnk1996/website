@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "larsklopstra",
   "version": "1.0.0",
-  "description": "My phenomenal Nuxt.js project",
+  "description": "Lars Klopstra — Software developer",
   "author": "Lars Klopstra",
   "private": true,
   "scripts": {
