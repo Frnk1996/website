@@ -30,7 +30,7 @@
         <h2 class="section__title">About me</h2>
         <p class="section__paragraph">
           Hello there, my name is Lars Klopstra, I'm a software developer specialized in fast and good looking progressive web applications.
-          I thrive to create awesome web applications with Vue.js, Nuxt.js, Angular, Laravel, Node.js. I'm always looking to expand my knowledge,
+          I strive to create awesome web applications with Vue.js, Nuxt.js, Angular, Laravel, Node.js. I'm always looking to expand my knowledge,
           currently I'm looking into Django and realtime data with P2P and websockets.
         </p>
         <p class="section__paragraph">
